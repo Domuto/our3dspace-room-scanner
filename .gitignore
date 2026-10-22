@@ -1,6 +1,7 @@
 node_modules/
 dist/
 build/
+.vercel/
 DerivedData/
 xcuserdata/
 *.xcuserstate
@@ -15,3 +16,4 @@ data/scans/
 apps/house-capture/release/screenshots/
 
 HouseCapture.xcodeproj/
+.vercel
