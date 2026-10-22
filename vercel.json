@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "apps/room-viewer/dist",
+  "framework": "vite"
+}
